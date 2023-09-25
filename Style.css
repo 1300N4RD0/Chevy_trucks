@@ -2,3 +2,6 @@ body{
   text-align: center;
   background-color: #03e8fc;
 }
+p{
+  font-family: monospace;
+  font-size: 20px;
