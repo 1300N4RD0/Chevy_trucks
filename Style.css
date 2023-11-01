@@ -11,7 +11,7 @@ div { background-color: ##8295f5
 #page-1-image{
   animation:  fade-in 5s;
 }
-}
+
 @keyframes fade-in
 {
   from {
