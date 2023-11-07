@@ -22,3 +22,6 @@ div { background-color: ##8295f5
     opacity: 1;
     margin-left: 15px;
   }
+.btn:hover{
+  transform: translateY(10px);
+}
