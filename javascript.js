@@ -5,3 +5,7 @@ console.log('I hope you enjoy learning javascript!");
 function changetext() {
 document.getElementById("demo").innerHTML ="lifted trucks are better"
 }
+
+function printToconsole(input) {
+      window.alert(input);
+}
