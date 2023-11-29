@@ -6,6 +6,6 @@ function changetext() {
 document.getElementById("demo").innerHTML ="lifted trucks are better"
 }
 
-function printToconsole(input) {
+function printToConsole(input) {
       window.alert(input);
 }
