@@ -15,3 +15,14 @@ const person = {
   age: "30",
   Color: "blue"
 };
+
+
+
+function change"chevy"() {
+document.getElementbyId("demo").innerHTML ="ford"
+}
+
+
+function printToConsole(input) {
+      window.alert(input);
+}
